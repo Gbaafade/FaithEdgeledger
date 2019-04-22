@@ -90,14 +90,7 @@ p {
 
 .btn-dark {
   background: #333;
-  color: #fff;
-  display: inline-block;
-  font-size: 18px;
-  color: #fff;
-  padding: 0.5rem 2rem;
-  border: none;
-  border-radius: 5px;
-  
+  color: #fff;  
 }
 
 .list {
